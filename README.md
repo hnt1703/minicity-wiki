@@ -1,6 +1,6 @@
-# MINICITY SS2 — Hướng Dẫn Chơi Server
+# MINICITY — Hướng Dẫn Chơi Server
 
-> Chào mừng bạn đến với **MINICITY SS2**! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
+> Chào mừng bạn đến với **MINICITY**! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
 
 ---
 
