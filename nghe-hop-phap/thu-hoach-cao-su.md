@@ -1,40 +1,75 @@
 # Thu Hoạch Cao Su
 
-Nghề thu hoạch cao su giúp bạn kiếm tiền từ việc lấy mủ cây cao su.
+Nghề thu hoạch cao su là công việc đơn giản nhưng ổn định. Bạn sẽ đến khu rừng cao su để cạo mủ từ những cây cao su, sau đó mang đi chế biến thành thành phẩm có giá trị.
 
-## Cách Tham Gia
+## Cách Bắt Đầu
 
-### Tìm Đến Đồn Điền Cao Su
-- Icon **cây cao su** trên bản đồ
-- Thường ở ngoại ô
+### Tìm Đến Khu Rừng Cao Su
+- Trên bản đồ会出现 **icon cây cao su** (màu xanh lá)
+- Vùng rừng cao su nằm ở khu vực ngoại ô phía Đông Bắc
+- Đến NPC quản lý để đăng ký làm công nhân thu hoạch
 
-### Tại Đồn Điền
-1. Tìm NPC quản lý
-2. Đăng ký làm công nhân
-3. Nhận dụng cụ
+### Mua Công Cụ Cạo Mủ
+| Công Cụ | Thời Gian Thu Hoatch | Ưu Điểm |
+|---------|---------------------|----------|
+| **Dao Cạo Mủ** | 15 giây | Rẻ nhất, phù hợp người mới |
+| **Dao Cạo Thép** | 10 giây | Nhanh hơn,耐用 hơn |
+| **Máy Cạo Mủ** | 5 giây | Nhanh nhất, hiệu quả cao |
 
-## Cách Chơi
+> **Lưu ý:** Mỗi công cụ có **độ bền**. Sau mỗi lần sử dụng, độ bền giảm 5%. Khi độ bền xuống dưới 5%, công cụ sẽ bị vỡ!
 
-### Bước 1: Cắt Vỏ Cây
-- Chọn cây cao su
-- Dùng dao cắt vỏ cây
-- Mủ sẽ chảy ra
+## Cách Thu Hoạch
 
-### Bước 2: Thu Thập Mủ
-- Đặt cốc hứng mủ
-- Chờ mủ chảy đầy
-- Thu thập mủ
+### Bước 1: Đến Khu Rừng
+- Vào khu rừng cao su được đánh dấu trên bản đồ
+- Tìm một cây cao su còn khả dụng
+- Cầm công cụ cạo mủ trên tay
 
-### Bước 3: Chế Biến
-- Mang mủ đến nhà máy
-- Chế biến thành thành phẩm
-- Bán thành phẩm
+### Bước 2: Cạo Mủ
+1. Dùng **ox_target** để tương tác với cây cao su
+2. Chọn công cụ bạn muốn sử dụng
+3. Hoàn thành thanh tiến trình cạo mủ
+4. Nhận **mủ cao su thô** vào túi đồ
 
-## Mẹo
+### Bước 3: Thu Thập Vật Phẩm Phụ
+- Khi cạo mủ, bạn có cơ hội nhận thêm **Vỏ cây cao su** (tỷ lệ thấp)
+- Vỏ cây cũng có thể bán hoặc dùng trong chế tạo
 
-- Cắt đúng kỹ thuật giúp mủ chảy nhiều hơn
-- Thu hoạch vào sáng sớm hiệu quả nhất
-- Có thể mở rộng đồn điền
+### Bước 4: Cooldown
+- Mỗi cây cao su cần **5 phút** để hồi phục sau khi thu hoạch
+- Nếu cây đang hồi phục, bạn sẽ nhận thông báo "Cây này cần hồi phục thêm X giây"
+
+## Chế Biến Cao Su
+
+Sau khi thu thập đủ mủ cao su thô, bạn cần mang đi chế biến qua **2 bước**:
+
+### Bước 1: Chưng Cất
+- **Địa điểm:** Nồi chưng cất (xuất hiện trên bản đồ)
+- **Công thức:** 2 Mủ cao su thô → 1 Mủ cao su tinh chế
+- **Thời gian:** 8 giây
+- Hoàn thành thanh tiến trình để nhận kết quả
+
+### Bước 2: Đóng Gói
+- **Địa điểm:** Máy đóng gói (cũng trên bản đồ)
+- **Công thức:** 2 Mủ cao su tinh chế → 1 Khối cao su
+- **Thời gian:** 10 giây
+- **Khối cao su** là thành phẩm cuối cùng, có thể bán lấy tiền
+
+## Tổng Quan Quy Trình
+
+```
+Mủ cao su thô → Chưng cất → Mủ cao su tinh chế → Đóng gói → Khối cao su
+   (2 thô)         (×1)         (2 tinh chế)       (×1)      (bán lấy tiền)
+```
+
+## Mẹo Hiệu Quả
+
+1. **Mua dao cạo thép hoặc máy cạo** — Rút ngắn thời gian thu hoạch đáng kể
+2. **Theo dõi độ bền công cụ** — Đừng để công cụ bị vỡ giữa chừng
+3. **Thu hoạch nhiều cây** — 50+ cây trong khu rừng, phân tán ra để không phải chờ cooldown
+4. **Mang theo đủ nguyên liệu** — Cần 2 mủ thô để chưng cất 1 lần, 2 mủ tinh chế để đóng gói 1 lần
+5. **Bán thành phẩm** — Khối cao su bán được giá tốt hơn nhiều so với mủ thô
+6. **Làm theo nhóm** — Có thể rủ bạn bè cùng thu hoạch để nhanh hơn
 
 ---
 

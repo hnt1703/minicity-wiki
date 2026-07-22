@@ -1,33 +1,48 @@
 # Bang Hội
 
-Tham gia bang hội để chơi cùng bạn bè.
+Bang hội là nơi bạn có thể kết nhóm với bạn bè, cùng nhau hoạt động và phát triển. Tham gia bang hội giúp bạn **có đồng đội hỗ trợ**, tổ chức sự kiện và chiếm giữ khu vực.
 
 ## Cách Tham Gia
 
 ### Tìm Bang Hội
-- Tìm bang hội trên bản đồ
-- Hoặc được mời tham gia
+- Tìm bang hội trên bản đồ (icon bang hội)
+- Hoặc được thành viên khác mời tham gia
 
 ### Nộp Đơn
 1. Đến khu vực bang hội
 2. Nộp đơn xin gia nhập
-3. Chờ phê duyệt
-4. chính thức trở thành thành viên!
+3. Chờ trưởng bang phê duyệt
+4. Chính thức trở thành thành viên!
 
 ## Tính Năng Bang Hội
 
-| Tính Năng | Mô Tả |
-|-----------|-------|
-| Quản lý thành viên | Thêm/bớt thành viên |
-| Chiếm giữ khu vực | Chiếm quyền kiểm soát |
-| Tổ chức sự kiện | Event nhóm |
-| Chat nội bộ | Nói chuyện trong bang |
+### Quản Lý Thành Viên
+- Thêm thành viên mới
+- Bỏ thành viên vi phạm
+- Phân quyền quản lý
+
+### Chiếm Giữ Khu Vực
+- Chiếm quyền kiểm soát khu vực trên bản đồ
+- Kiếm tiền từ khu vực kiểm soát
+- Bảo vệ khu vực khỏi bang hội khác
+
+### Tổ Chức Sự Kiện
+- Event nhóm
+- Hoạt động tập thể
+- Giải đấu bang hội
+
+### Chat Nội Bộ
+- Nói chuyện trong bang
+- Phối hợp hoạt động
+- Chia sẻ thông tin
 
 ## Mẹo
 
-- Tham gia bang hoạt động
-- Đóng góp cho bang
-- Tham gia sự kiện bang
+1. **Tham gia bang hoạt động** — Đừng chỉ đứng tên, hãy tham gia tích cực
+2. **Đóng góp cho bang** — Giúp bang phát triển
+3. **Tham gia sự kiện bang** — Nhận phần thưởng chung
+4. **Phối hợp đồng đội** — Làm việc nhóm hiệu quả hơn
+5. **Bảo vệ bang hội** — Đừng để bang bị chiếm khu vực
 
 ---
 

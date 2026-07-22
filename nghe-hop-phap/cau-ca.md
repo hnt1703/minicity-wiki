@@ -1,48 +1,134 @@
 # Câu Cá
 
-Hoạt động câu cá vừa giải trí vừa kiếm tiền.
+Nghề câu cá là một hoạt động thư giãn giúp bạn kiếm tiền từ những mẻ cá tươi ngon. Bạn có thể câu ở bờ sông, ven biển hoặc ra khơi xa để tìm những loài cá quý hiếm.
 
-## Cách Tham Gia
+## Cách Bắt Đầu
 
-### Tìm Đến Bệ Câu Cá
-- Icon **cần câu** trên bản đồ
-- Thường ở bờ sông, bờ biển
+### Tìm Đến Cửa Hàng Câu Cá
+- Trên bản đồ会出现 một **icon cần câu** (màu xanh lá)
+- Đến khu vực bờ biển phía Nam để gặp NPC bán dụng cụ câu cá
+- Bạn có thể **thuê thuyền** ngay tại NPC để ra khơi câu cá深处 hơn
 
-### Tại Bệ Câu
-1. Tìm NPC bán cần câu
-2. Mua cần câu và mồi
-3. Ngồi vào vị trí câu
+### Thuê Thuyền
+- Chi phí thuê: **$2.000** (hoàn lại khi trả thuyền)
+- Thuyền sẽ xuất hiện ngay tại bến cảng
+- Sau khi thuê, bạn sẽ được ngồi vào vị trí lái thuyền
 
-## Cách Chơi
+### Mua Dụng Cụ
+| Dụng Cụ | Mức |
+|---------|-----|
+| Cần câu cấp 1 | Cơ bản nhất |
+| Cần câu cấp 2 | Khá hơn |
+| Cần câu cấp 3 | Tốt |
+| Cần câu cấp 4 | Cao cấp |
+| Cần câu cấp 5 | Tốt nhất |
+
+> **Mẹo:** Cần câu cấp càng cao, tỷ lệ câu được cá quý hiếm càng lớn!
+
+### Mua Mồi Câu
+- **Mồi câu thường**: Dùng cho khu vực câu thông thường
+- **Mồi câu đặc biệt**: Bắt buộc cho khu vực câu cá bẩn (bị cấm)
+
+> **Quan trọng:** Bạn PHẢI dùng mồi câu thì cá mới cắn! Cầm cần trên tay rồi nhấn dùng mồi để gắn mồi vào cần.
+
+## Khu Vực Câu Cá
+
+### Khu Câu Thường
+- **Vị trí:** Khu vực ven sông phía Nam
+- **Đặc điểm:** Luôn mở cửa, không bị ràng buộc
+- **Mồi cần dùng:** Mồi câu thường (redline_bait)
+
+### Khu Câu Bẩn (Bị Cấm)
+- Có **3 khu vực** thay đổi theo chu kỳ **mỗi giờ**
+- Chỉ **một khu vực** mở tại một thời điểm
+- **Mồi bắt buộc:** Mồi câu đặc biệt (illegalfishbait)
+- Cá ở đây có giá trị cao hơn nhưng **nguy hiểm hơn** — cần đề phòng cảnh sát!
+
+## Cách Câu Cá
 
 ### Bước 1: Chuẩn Bị
-- Gắn mồi vào cần câu
-- Chọn loại mồi phù hợp
+1. Đứng ở khu vực câu cá
+2. Cầm cần câu trên tay
+3. Gắn mồi câu bằng cách nhấn nút dùng mồi
+4. Nhấn **E** để quăng cần ra xa
 
-### Bước 2: Câu
-- Quăng cần ra xa
-- Chờ cá cắn câu
-- Khi có tiếng động và rung, nhấn nhanh!
+### Bước 2: Chờ Cá Cắn
+- Sau khi quăng cần, hãy **kiên nhẫn chờ** (khoảng 10-20 giây)
+- Khi cá cắn, bạn sẽ thấy **hiệu ứng rung** và **âm thanh cảnh báo**
+- Hệ thống sẽ tự động mở minigame câu cá
 
-### Bước 3: Thu Hoạt
-- Câu cá lên
-- Bỏ vào rổ
-- Tiếp tục câu hoặc bán
+### Bước 3: Minigame Câu Cá
+Có **2 loại minigame** ngẫu nhiên:
+
+**Minigame Dễ (Easy):**
+- Điều chỉnh tốc độ và độ khó
+- Phù hợp cho người mới
+
+**Minigame Classic (Kinh điển):**
+- Kéo cần theo hướng cá di chuyển
+- Giữ khoảng cách hợp lý để không đứt dây
+- Thời gian và độ khó tùy loại cá
+
+### Bước 4: Thu Hoạt
+- Sau khi thắng minigame, cá sẽ được bỏ vào túi đồ
+- Bạn có thể tiếp tục câu hoặc mang cá đi bán
+
+> **Lưu ý:** Có 1% cơ hội dây câu bị đứt khi đang kéo cá lên. Mỗi 8 giây sẽ kiểm tra một lần. Hãy cẩn thận!
 
 ## Các Loại Cá
 
-| Cá | Giá Bán | Mồi Nên Dùng |
-|----|---------|--------------|
-| Cá chép | 20$ | Giun |
-| Cá rô | 30$ | Bánh mì |
-| Cá ngừ | 80$ | Tôm |
-| Cá kiếm | 150$ | Cá con |
+### Cá Phổ Biến (Khu Thường)
+| Loài Cá | Vùng | Đặc Điểm |
+|---------|------|-----------|
+| Cá Chép | Thường | Dễ câu, phù hợp người mới |
+| Cá Sọc Xanh | Thường | Nhỏ nhưng dễ kiếm |
+| Cá Hồi | Biển | Câu Classic, cần kiên nhẫn |
+| Cá Trê | Biển/Sông | Kích thước lớn |
+| Cá Vàng Biển | Thường | Cân nặng lên đến 10kg |
+| Cua | Thường | Không phải cá nhưng vẫn câu được |
+| Cá Khủng Long | Thường | Tên lạ nhưng thực chất là cá thường |
+| Cá Diếc Biển | Bờ biển | Câu Classic kéo dài |
+| Cá Chạch | Thường | Nhỏ nhưng nhiều |
+| Cá Tì Đầu | Biển | Rất quý hiếm, giá trị cao |
 
-## Mẹo
+### Cá Quý Hiếm (Biển Sâu)
+| Loài Cá | Vùng | Đặc Điểm |
+|---------|------|-----------|
+| Cá Nhồng | Biển | Kích thước lớn, cần mồi tốt |
+| Cá Trắng Vây | Bờ | Quý hiếm, giá trị cao |
+| Cá Phượng Hoàng | Biển | Rất đẹp và quý |
+| Cá Đĩa | Thường | Hình dáng đặc biệt |
+| Cá Hồng | Biển sâu | Giá trị rất cao |
+| Cá Tầm | Biển | Kích thước khổng lồ, lên đến 220cm |
 
-- Mỗi loại mồi câu được cá khác nhau
-- Buổi sáng sớm câu được cá lớn hơn
-- Có thể câu cá quý hiếm!
+### Cá Siêu Quý Hiếm
+| Loài Cá | Vùng | Đặc Điểm |
+|---------|------|-----------|
+| Cá Koi Nhật | Biển | **Rất quý hiếm**, giá trị cực cao |
+| Cá Thiên Thần Hoàng Đế | Biển sâu | **Cực hiếm**, cần cần câu cấp cao |
+| Cá Trê Pha Lê | Biển | **Siêu hiếm**, trong suốt như pha lê |
+| Cá Chuồn | Bờ | Nhảy trên mặt nước |
+| Cá Bóng Đêm | Biển | Phát sáng trong đêm |
+| **Cá Búa** | Biển sâu | **Cá lớn nhất** — cá mập búa, nặng tới 100kg! |
+
+### Vật Phẩm Đặc Biệt
+| Vật Phẩm | Mô Tả |
+|----------|-------|
+| Vali Tiền | Trúng vali tiền = nhận **$10.000** tiền mặt! |
+| Giày Cũ | Trúng nhầm giày cũ — ai mà biết ai đã đi... |
+
+## Bảng Giá Tham Khảo
+
+> **Lưu ý:** Giá bán thay đổi tùy trọng lượng và kích thước thực tế của từng con cá. Cá lớn hơn sẽ bán được giá cao hơn!
+
+## Mẹo Câu Cá Hiệu Quả
+
+1. **Nâng cấp cần câu** — Cần cấp 5 mở khóa được nhiều loại cá quý hiếm hơn
+2. **Đúng mồi đúng chỗ** — Mồi đặc biệt chỉ dùng ở khu bẩn, mồi thường dùng ở khu thường
+3. **Kiên nhẫn chờ** — Đừng quá sốt ruột, cá cần thời gian để cắn mồi
+4. **Chú ý khu vực xoay vòng** — Khu câu bẩn thay đổi mỗi giờ, hãy theo dõi bản đồ
+5. **Thuê thuyền ra khơi** — Biển sâu có nhiều cá quý hiếm hơn bờ sông
+6. **Thu thập vali tiền** — Đây là vật phẩm đặc biệt mang lại tiền thưởng lớn!
 
 ---
 

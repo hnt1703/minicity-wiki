@@ -27,6 +27,7 @@
   * [Sửa Xe](xe-co-garage/sua-xe.md)
   * [Bán Xe](xe-co-garage/ban-xe.md)
 * [Mua Bán & Thương Mại](mua-ban-thuong-mai/README.md)
+  * [Danh Mục Vật Phẩm](mua-ban-thuong-mai/vat-pham.md)
   * [Cửa Hàng Mini](mua-ban-thuong-mai/cua-hang-mini.md)
   * [Bán Vật Phẩm](mua-ban-thuong-mai/ban-vat-pham.md)
   * [Bưu Cục](mua-ban-thuong-mai/buu-cuc.md)

@@ -1,37 +1,43 @@
 # Hệ Thống Ngủ
 
-Ngủ để phục hồi năng lượng.
+Ngủ giúp phục hồi năng lượng và sức khỏe. Khi thanh mệt mỏi thấp, bạn cần ngủ để tiếp tục hoạt động!
 
 ## Khi Nào Cần Ngủ?
 
-- Thanh **mệt mỏi** thấp
+- Thanh **mệt mỏi** thấp (hiển thị trên HUD)
 - Không còn năng lượng để hoạt động
 - Muốn phục hồi sức khỏe
+- Trước khi đi làm dài
 
 ## Cách Ngủ
 
 ### Tìm Giường
-- Về nhà (nếu có)
-- Thuê phòng khách sạn
-- Ngồi trên ghế dài (phục hồi chậm)
+| Địa Điểm | Mô Tả |
+|-----------|-------|
+| **Nhà riêng** | Về nhà nếu đã mua nhà |
+| **Khách sạn** | Thuê phòng tại khách sạn |
+| **Ghế dài** | Ngồi ghế (phục hồi chậm) |
 
 ### Ngủ
 1. Đến vị trí có giường
-2. Dùng ox.target để tương tác
-3. Ngủ một giấc
-4.醒来醒来 với năng lượng đầy!
+2. Dùng **ox_target** để tương tác
+3. Chọn **"Ngủ"**
+4. Chờ một lúc
+5. **Thức dậy** với năng lượng đầy!
 
 ## Lưu Ý
 
-- Ngủ mất vài phút thực
-- Có thể bị đánh thức
-- Ngủ ở nơi an toàn
+- **Ngủ mất vài phút thực** — Đừng ngủ ở nơi nguy hiểm
+- **Có thể bị đánh thức** — Ngủ ở nơi an toàn
+- **Ngủ ở nơi an toàn** — Tránh khu vực tội phạm
 
 ## Mẹo
 
-- Ngủ trước khi đi làm dài
-- Có nhà riêng dễ ngủ hơn
-- Đừng kiệt sức!
+1. **Ngủ trước khi đi làm** — Đảm bảo năng lượng đầy
+2. **Mua nhà riêng** — Dễ ngủ hơn, không tốn tiền
+3. **Đừng kiệt sức** — Kiệt sức = hoạt động chậm hơn
+4. **Ngủ ở nơi an toàn** — Đề phòng bị tấn công
+5. **Kết hợp với ăn uống** — Ăn + ngủ = phục hồi nhanh nhất
 
 ---
 

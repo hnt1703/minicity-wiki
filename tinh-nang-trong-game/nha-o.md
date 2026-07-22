@@ -1,39 +1,57 @@
 # Nhà Ở
 
-Mua và trang trí nhà riêng.
+Mua và sở hữu nhà riêng giúp bạn có nơi ở an toàn, lưu đồ và trang trí theo sở thích. Đây là **tính năng quan trọng** trong game!
 
 ## Cách Mua Nhà
 
 ### Tìm Nhà
-- Icon **nhà** trên bản đồ
-- Có nhiều loại nhà: căn hộ, biệt thự, nhà nhỏ
+- Trên bản đồ会出现 **icon nhà** (nhiều loại: căn hộ, biệt thự, nhà nhỏ)
+- Đến khu vực nhà để xem thông tin
 
 ### Mua Nhà
 1. Đến khu vực nhà
-2. Dùng ox.target để xem thông tin
-3. Mua nhà bằng tiền
-4. Nhận chìa khóa!
+2. Dùng **ox_target** để xem thông tin
+3. Xem giá và diện tích
+4. Mua nhà bằng tiền
+5. Nhận **chìa khóa**!
 
 ## Tính Năng Nhà
 
-| Tính Năng | Mô Tả |
-|-----------|-------|
-| Lưu đồ | Stash đồ trong nhà |
-| Ngủ | Phục hồi năng lượng |
-| Trang trí | Đặt đồ nội thất |
-| Mời khách | Mời bạn bè đến chơi |
+### Lưu Đồ (Stash)
+- Lưu đồ quý trong nhà
+- An toàn hơn so với túi đồ
+- Phù hợp cho đồ hiếm và đắt tiền
 
-## Trang Trí Nhà
+### Ngủ
+- Phục hồi năng lượng
+- Tiện lợi vì có sẵn giường
+- Không cần tìm khách sạn
 
+### Trang Trí
 - Mua đồ nội thất tại cửa hàng
 - Đặt đồ theo sở thích
-- Tùy chỉnh màu sắc
+- Tùy chỉnh màu sắc, kiểu dáng
+
+### Mời Khách
+- Mời bạn bè đến chơi
+- Tổ chức tiệc tại nhà
+- Chia sẻ không gian sống
+
+## Các Loại Nhà
+
+| Loại Nhà | Đặc Điểm | Giá |
+|----------|-----------|-----|
+| **Nhỏ** | 1 phòng, phù hợp 1 người | Rẻ nhất |
+| **Căn hộ** | 2-3 phòng, tiện nghi | Trung bình |
+| **Biệt thự** | Nhiều phòng, sang trọng | Đắt nhất |
 
 ## Mẹo
 
-- Mua nhà phù hợp khả năng tài chính
-- Lưu đồ quý trong nhà
-- Trang trí theo phong cách riêng
+1. **Mua nhà phù hợp** — Đừng mua biệt thự nếu mới chơi
+2. **Lưu đồ quý** — Đồ đắt tiền nên cất trong nhà
+3. **Trang trí theo phong cách** — Tạo không gian riêng
+4. **Mời bạn bè** — Vui hơn khi có nhà đẹp
+5. **Bảo mật** — Không chia sẻ chìa khóa cho người lạ
 
 ---
 
