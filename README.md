@@ -1,6 +1,6 @@
-# MINICITY  — Hướng Dẫn Chơi Server
+# MINICITY — Hướng Dẫn Chơi Server
 
-> Chào mừng bạn đến với **MINICITY **! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
+> Chào mừng bạn đến với **MINICITY SS2**! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
 
 ---
 
@@ -29,6 +29,7 @@ Bạn mới chơi lần đầu? Xem hướng dẫn:
 ## Nghề Nghiệp
 
 ### Hợp Pháp
+
 - [Nông Trại](nghe-hop-phap/nong-trai.md) — Trồng trọt, chăn nuôi
 - [Lái Xe Tải](nghe-hop-phap/lai-xe-tai.md) — Vận chuyển hàng hóa
 - [Lái Xe Buýt](nghe-hop-phap/lai-xe-bus.md) — Chở hành khách
@@ -36,6 +37,7 @@ Bạn mới chơi lần đầu? Xem hướng dẫn:
 - [Câu Cá](nghe-hop-phap/cau-ca.md) — Câu cá giải trí
 
 ### Bất Hợp Pháp
+
 - [Cậy Đồng Hồ](nghe-bat-hop-phap/cay-dong-ho.md) — Trộm máy đỗ xe
 - [Trộm Biển Báo](nghe-bat-hop-phap/trom-bien-bao.md) — Ăn cắp biển hiệu
 
