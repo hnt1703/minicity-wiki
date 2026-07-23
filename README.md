@@ -6,9 +6,9 @@
 
 ## Tổng Quan
 
-MINICITY là server roleplay Việt Nam với hàng chục tính năng đa dạng:
+MINICITY là máy chủ GTA 5 Roleplay Việt Nam với rất nhiều tính năng đa dạng, cơ chế gameplay chân thực:
 
-- **10+ nghề hợp pháp** để kiếm tiền chân chính
+- **Nghề hợp pháp** để kiếm tiền chân chính
 - **Nghề bất hợp pháp** cho ai thích mạo hiểm
 - **Hệ thống xe cộ** với garage, độ xe, sửa xe
 - **Trò chơi giải trí** đa dạng
@@ -54,7 +54,7 @@ Bạn mới chơi lần đầu? Xem hướng dẫn:
 ## Giải Trí
 
 - [Loto](tro-choi-giai-tri/loto.md) — Xổ số may mắn
-- [Tiến Lên](tro-choi-giai-tri/tien-len.md) — Game bài
+- [Vé số cào](tro-choi-giai-tri/ve-so-cao.md)
 
 ---
 
