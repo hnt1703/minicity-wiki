@@ -18,31 +18,31 @@ Các nghề hợp pháp giúp bạn kiếm tiền một cách an toàn, không l
 
 ### 🌾 Nông Nghiệp
 | Nghề | Yêu Cầu | Chi Tiết |
-|------|----------|---------|----------|
+|------|----------|---------|
 | **Nông Trại** | Hạt giống | [Chi tiết](nong-trai.md) |
 | **Thu Hoạch Cao Su**| Dao cạo | [Chi tiết](thu-hoach-cao-su.md) |
 
 ### 🚚 Vận Tải
 | Nghề | Yêu Cầu | Chi Tiết |
-|------|----------|---------|----------|
+|------|----------|---------|
 | **Lái Xe Tải** | Thuê xe | [Chi tiết](lai-xe-tai.md) |
 | **Lái Xe Buýt** | Thuê xe | [Chi tiết](lai-xe-bus.md) |
 
 ### ⛏️ Khai Thác
 | Nghề | Yêu Cầu | Chi Tiết |
-|------|----------|---------|----------|
+|------|----------|---------|
 | **Khai Thác Đá** | Công cụ | [Chi tiết](khai-thac-da.md) |
 | **Nghề Gỗ**| Rìu | [Chi tiết](nghe-go.md) |
 
 ### 🌊 Biển
 | Nghề | Yêu Cầu | Chi Tiết |
-|------|----------|---------|----------|
+|------|----------|---------|
 | **Lặn Biển** | Thiết bị lặn | [Chi tiết](lan-bien.md) |
 | **Câu Cá** | Cần câu | [Chi tiết](cau-ca.md) |
 
 ### 🔧 Khác
 | Nghề | Yêu Cầu | Chi Tiết |
-|------|----------|---------|----------|
+|------|----------|---------|
 | **Lục Rác** | Không | [Chi tiết](luc-rac.md) |
 | **Nhà Máy Nước** | Công cụ | [Chi tiết](nha-may-nuoc.md) |
 

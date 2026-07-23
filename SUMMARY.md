@@ -43,7 +43,6 @@
 * [Trò Chơi Giải Trí](tro-choi-giai-tri/README.md)
   * [Loto / Xổ Số](tro-choi-giai-tri/loto.md)
   * [Tiến Lên](tro-choi-giai-tri/tien-len.md)
-  * [Tài Xỉu](tro-choi-giai-tri/tai-xiu.md)
   * [Vòng Quay May Mắn](tro-choi-giai-tri/vong-quay.md)
   * [Nhảy Au](tro-choi-giai-tri/nhay-au.md)
   * [Crack Két Sắt](tro-choi-giai-tri/crack-ket-sat.md)
