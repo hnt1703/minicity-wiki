@@ -1,12 +1,12 @@
-# MINICITY SS2 — Hướng Dẫn Chơi Server
+# MINICITY — Hướng Dẫn Chơi Server
 
-> Chào mừng bạn đến với **MINICITY SS2**! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
+> Chào mừng bạn đến với **MINICITY**! Đây là hướng dẫn toàn tập giúp bạn khám phá tất cả tính năng trong game.
 
 ---
 
 ## Tổng Quan
 
-MINICITY SS2 là server roleplay Việt Nam với hàng chục tính năng đa dạng:
+MINICITY là server roleplay Việt Nam với hàng chục tính năng đa dạng:
 
 - **10+ nghề hợp pháp** để kiếm tiền chân chính
 - **Nghề bất hợp pháp** cho ai thích mạo hiểm
