@@ -5,6 +5,7 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 ## Bắt Đầu
 
 ### Làm sao để tạo nhân vật?
+
 1. Vào server, bạn sẽ được chuyển đến khu vực tạo nhân vật
 2. Chọn giới tính (Nam/Nữ)
 3. Tùy chỉnh khuôn mặt, kiểu tóc
@@ -14,110 +15,131 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 ### Làm sao để kiếm tiền?
 
 #### Hợp Pháp (An Toàn)
-| Cách Kiếm Tiền | Chi Tiết | Thu Nhập |
-|-----------------|----------|----------|
-| **Nông nghiệp** | Trồng bắp cải, bí ngô | $10-50/món |
-| **Lái xe tải** | Thuê xe, chở hàng |
-| **Lái xe buýt** | Chở khách theo tuyến |
-| **Câu cá** | Câu cá tại bờ biển | $50-500/con |
-| **Thu hoạch cao su** | Chế biến cao su | $100-300/kg |
-| **Làm gỗ** | Chặt gỗ theo nhóm | $10/ván |
-| **Lục rác** | Tìm đồ trong thùng rác | $1-400/đồ |
+
+| Cách Kiếm Tiền       | Chi Tiết               | Thu Nhập   |
+| -------------------- | ---------------------- | ---------- |
+| **Nông nghiệp**      | Trồng bắp cải, bí ngô  | Trung bình |
+| **Lái xe tải**       | Thuê xe, chở hàng      | Cao        |
+| **Lái xe buýt**      | Chở khách theo tuyến   | Trung bình |
+| **Đánh cá**          | Câu cá tại bờ biển     | Trung bình |
+| **Thu hoạch cao su** | Chế biến cao su        | Cao        |
+| **Làm gỗ**           | Chặt gỗ theo nhóm      | Trung bình |
+| **Lục rác**          | Tìm đồ trong thùng rác | Thấp       |
 
 #### Bất Hợp Pháp (Nguy Hiểm)
-| Cách Kiếm Tiền | Chi Tiết | Rủi Ro |
-|-----------------|----------|--------|
-| **Cậy đồng hồ** | Phá khóa đồng hồ | Bị cảnh sát bắt |
-| **Trộm biển báo** | Tháo biển báo đường | Cần 3 cảnh sát |
-| **Trộm nắp cống** | Tháo nắp cống | 90 giây thực hiện |
-| **Trồng cần sa** | Trồng và thu hoạch | Bị bắt nếu phát hiện |
+
+| Cách Kiếm Tiền    | Chi Tiết            | Rủi Ro  |
+| ----------------- | ------------------- | ------- |
+| **Cậy đồng hồ**   | Phá khóa đồng hồ    | Cao     |
+| **Trộm biển báo** | Tháo biển báo đường | Rất Cao |
+| **Trộm nắp cống** | Tháo nắp cống       | Rất Cao |
+| **Trồng cần sa**  | Trồng và thu hoạch  | Rất Cao |
 
 **Lưu ý:** Nghề bất hợp pháp có thể bị cảnh sát bắt và phạt tiền hoặc vào tù.
 
 ### Bị thương phải làm sao?
-1. **Gọi y tế:** Nhấn M → Gọi Ambulance
-2. **Đến bệnh viện:** Tìm icon bệnh viện trên bản đồ
-3. **Chờ cấp cứu:** Bác sĩ sẽ đến cứu
-4. **Chi phí:** $4000
+
+1. **Gọi y tế:** Nhấn M (Mở điện thoại) → Chọn app "Dịch Vụ" → Gọi cho "Bác sĩ"
+2. **Đến bệnh viện:** Tìm bệnh viện trên bản đồ
+3. **Chi phí:** Miễn phí hoặc theo bác sĩ kê hoá đơn
 
 ### Xe bị hư phải làm sao?
 
 #### Cách Sửa Xe
-| Cách | Chi Phí | Thời Gian |
-|------|---------|-----------|
-| **Tự sửa** | Item Bộ sửa xe | 15-20 giây |
-| **Gọi thợ** | Thỏa thuận | Tùy thợ |
+
+| Cách           | Chi Phí    |
+| -------------- | ---------- |
+| **Tự sửa**     | Bộ sửa xe  |
+| **Gọi cứu hộ** | Thỏa thuận |
 
 #### Dấu Hiệu Xe Hư
+
 - Xe chạy chậm hơn bình thường
 - Đèn báo hư hỏng sáng
-- Bánh xe bị xịt
+- Bánh xe bị rơi ra
 
 ### Bị cảnh sát bắt phải làm sao?
-1. **Hợp tác:** Đừng chống cự
+
+1. **Hợp tác:** Đừng chống cự, hãy làm theo cảnh sát yêu cầu để hợp tác điều tra
 2. **Kiểm tra:** Cảnh sát sẽ kiểm tra giấy tờ
 3. **Phạt tiền:** Nếu vi phạm sẽ bị phạt
-4. **Vào tù:** Nếu có tiền án nặng
+4. **Vào tù:** Tuỳ vào tội trạng bạn gây ra
+5. **Cách chơi:** Chấp hành hình phạt đưa ra, không cãi cùn khiến mọi chuyện đi quá xa, không giải quyết được vấn đề mà còn khiến trải nghiệm chơi của người khác tệ đi
+   **Lưu ý:** Nếu cảm thấy bị xử phạt không hợp lý, bạn có thể khiếu nại qua Discord
 
 ### Làm sao để mua nhà?
 
 #### Các Loại Nhà
-| Loại Nhà | Giá | Đặc Điểm |
-|----------|-----|----------|
-| **Nhà nhỏ** | $500k-1tr | 1 phòng ngủ |
-| **Nhà trung** | $1-3tr | 2-3 phòng ngủ |
-| **Biệt thự** | $3-10tr | Nhiều phòng, garage |
+
+| Loại Nhà      | Giá           | Đặc Điểm                  |
+| ------------- | ------------- | ------------------------- |
+| **Nhà nhỏ**   | $2000k-$3000k | Nhỏ gọn, giá hợp lý       |
+| **Nhà trung** | $3000k-$4000k | Diện tích vừa phải        |
+| **Biệt thự**  | Trên $4000k   | Rộng rãi, nhiều tiện nghi |
 
 #### Cách Mua
+
 1. Tìm khu vực nhà trên bản đồ
-2. Nhấn giữ Alt (Con mắt) để xem thông tin
-3. Mua bằng tiền trong game
-4. Nhận chìa khóa
+2. Dùng ALT vào cửa để xem thông tin / tham quan
+3. Mua bằng cách ký hợp đồng và trả tiền mặt
+4. Nhận chìa khóa, sử dụng F2 để mở tiện ích nhà
 
 ## Hệ Thống Xe
 
 ### Làm sao để mua xe?
-1. Đến showroom xe (icon xe trên bản đồ)
+
+1. Đến showroom xe gặp nhân viên Cardealer để nhờ tư vấn
 2. Xem và lái thử xe
 3. Chọn xe phù hợp
 4. Trả tiền và nhận xe
 
-### Làm sao để gọi xe?
-1. Đến NPC garage
-2. Chọn xe muốn gọi
+### Làm sao để cất/gọi xe?
+
+1. Đến các NPC garage
+2. Chọn cất xe/gọi xe
 3. Xe xuất hiện gần NPC
 
 ### Làm sao để độ xe?
+
 1. Đến tiệm độ xe
 2. Chọn phụ kiện muốn độ
-3. Trả tiền bằng tiền bẩn
+3. Thanh toán bằng tiền bẩn
 
-## Hệ Thống Nghề Nghiệp
+### Làm sao để rửa xe?
 
-### Các Nghề Hợp Pháp
-| Nghề | Yêu Cầu | Thu Nhập |
-|------|----------|----------|
+1. Đến tiệm tạp hoá
+2. Mua bộ rửa xe (nếu chưa có)
+3. Đứng cạnh xe bị dơ và dùng đồ vật phẩm để rửa
+
+## Hệ Thống Tổ Chức
+
+### Ban Ngành Hợp Pháp
+
+| Ban Ngành    | Yêu Cầu    | Thu Nhập        |
+| ------------ | ---------- | --------------- |
 | **Cảnh sát** | Tuyển dụng | Lương hàng ngày |
-| **Y tế** | Tuyển dụng | Lương hàng ngày |
-| **Cứu hộ** | Tuyển dụng | Sửa xe |
-| **Lái xe tải** | Thuê xe | $800/km |
-| **Lái xe buýt** | Thuê xe | $100-292/chuyến |
+| **Y tế**     | Tuyển dụng | Lương hàng ngày |
+| **Cơ khí**   | Tuyển dụng | Sửa xe          |
 
-### Các Nghề Bất Hợp Pháp
-| Nghề | Yêu Cầu | Rủi Ro |
-|------|----------|--------|
-| **Trộm cắp** | Không | Bị bắt |
-| **Trồng cần sa** | Hạt giống | Bị bắt |
+### Các Bang Hội
+
+| Hoạt Động           | Yêu Cầu | Rủi Ro                       |
+| ------------------- | ------- | ---------------------------- |
+| **Chiếm Nhà**       | Mời     | Cạnh tranh giữa các bang hội |
+| **Hái hoa anh túc** | Mời     | Cạnh tranh giữa các bang hội |
+| **Cướp xe**         | Mời     | Cạnh tranh giữa các bang hội |
 
 ## Hệ Thống Xã Hội
 
 ### Làm sao để tham gia bang hội?
-1. Tìm bang hội trên bản đồ
-2. Nói chuyện với lãnh đạo
-3. Hoàn thành thử thách
+
+1. Tìm vị trí các bang hội trên bản đồ
+2. Liên hệ với lãnh đạo bang hội
+3. Tìm hiểu và hoàn thành thử thách gia nhập bang hội (nếu có yêu cầu)
 4. Chính thức gia nhập
 
 ### Làm sao để kết bạn?
+
 1. Gặp gỡ người chơi khác
 2. Nhắn tin, gọi điện
 3. Cùng làm việc
@@ -126,10 +148,10 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 ## Mẹo Chơi
 
 1. **Luôn mang theo đồ ăn và nước uống**
-2. **Cẩn thận khi trộm** — cảnh sát có thể bắt
-3. **Làm việc nhóm hiệu quả hơn**
-4. **Tham gia bang hội** — nhận nhiều ưu đãi
-5. **Điểm danh hàng ngày** — nhận quà free
+2. **Cẩn thận khi trộm cướp** — cảnh sát có thể bắt bạn
+3. **Làm việc nhóm sẽ hiệu quả hơn**
+4. **Tham gia bang hội** — lối chơi cạnh tranh và kết nối bạn bè
+5. **Điểm danh hàng ngày** — nhận quà hằng ngày
 6. **Tham gia mini game** — vừa giải trí vừa kiếm tiền
 
 ---

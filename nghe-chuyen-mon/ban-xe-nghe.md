@@ -1,15 +1,16 @@
-# Bán Xe (Nghề)
+# Bán Xe (Car Dealer)
 
 Nghề bán xe giúp bạn kiếm tiền từ việc tư vấn, giới thiệu và bán xe cho người chơi khác. Đây là nghề **phù hợp cho người giao tiếp tốt** và yêu thích xe cộ.
 
 ## Cách Tham Gia
 
 ### Tìm Đến Showroom Xe
-- Trên bản đồ会出现 **icon car** (màu xanh lá)
-- Đến showroom xe để nộp đơn đăng ký
-- Đào tạo bán hàng trước khi nhận việc
+
+- Trên bản đồ tìm icon **Car Dealer** (612)
+- Đến showroom xe để xin phỏng vấn
 
 ### Quy Trình Đăng Ký
+
 1. Đến showroom xe
 2. Nộp đơn đăng ký
 3. Đào tạo bán hàng
@@ -19,21 +20,19 @@ Nghề bán xe giúp bạn kiếm tiền từ việc tư vấn, giới thiệu v
 ## Nhiệm Vụ Chính
 
 ### Tư Vấn
+
 - Giới thiệu xe cho khách
 - Giải thích thông số kỹ thuật
 - So sánh các dòng xe
 
 ### Chạy Thử
+
 - Cho khách thử xe
 - Hướng dẫn cách lái
 - Đảm bảo an toàn
 
-### Thương Lượng
-- Thỏa thuận giá cả
-- Đưa ra ưu đãi hợp lý
-- Hoàn tất thủ tục
-
 ### Hoàn Tất
+
 - Làm hợp đồng mua bán
 - Bàn giao xe
 - Hướng dẫn bảo dưỡng
@@ -41,7 +40,7 @@ Nghề bán xe giúp bạn kiếm tiền từ việc tư vấn, giới thiệu v
 ## Mẹo Làm Việc
 
 1. **Hiểu rõ thông số** — Biết mọi thứ về xe mình bán
-2. **Tư vấn đúng nhu cầu** — Đừng bán xe quá đắt cho người mới
+2. **Tư vấn đúng nhu cầu** — Hiểu rõ nhu cầu của khách hàng
 3. **Đừng ép mua** — Để khách tự quyết định
 4. **Vui vẻ, nhiệt tình** — Khách thích người bán vui vẻ
 5. **Biết lắng nghe** — Hiểu khách cần gì
@@ -49,4 +48,4 @@ Nghề bán xe giúp bạn kiếm tiền từ việc tư vấn, giới thiệu v
 
 ---
 
-> Quay lại: [Cắt Tóc](cat-toc.md) | Tiếp theo: [Trò Chơi Giải Trí](../tro-choi-giai-tri/README.md) →
+> Quay lại: [Làm Móng](lam-mong.md) | Tiếp theo: [Cứu Hộ](cuu-ho.md) →

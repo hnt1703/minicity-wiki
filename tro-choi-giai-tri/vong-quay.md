@@ -4,34 +4,28 @@ Vòng Quay May Mắn là trò chơi quay vòng nhận giải thưởng. Bạn mu
 
 ## Cách Chơi
 
-### Tìm NPC Vòng Quay
-- Trên bản đồ会出现 **icon vòng quay** ở trung tâm thành phố
-- Đến gặp NPC quản lý vòng quay
+### Tìm Vòng Quay
+
+- Trên bản đồ **icon vòng quay** ở trung tâm thành phố
 
 ### Quay Vòng
-1. Mua lượt quay (tùy giá)
+
+1. Tiến lại gần vòng quay
 2. Nhấn quay
 3. Chờ vòng quay dừng
 4. Nhận giải thưởng tương ứng!
 
 ## Giải Thưởng
 
-| Giải | Tiền Thưởng |
-|------|-------------|
-| **Giải Đặc Biệt** | **$5.000** |
-| **Giải Nhất** | **$2.000** |
-| **Giải Nhì** | **$500** |
-| **Giải Ba** | **$100** |
-| **Giải Khuyến Khích** | **$20** |
-
-## Mẹo Chơi
-
-1. **Quay vào giờ cao điểm** — Có thể nhiều giải hơn
-2. **Đừng quay quá nhiều lần** — Biết dừng đúng lúc
-3. **Nhận giải thưởng ngay** — Đừng để quên
-4. **Xem xét giá trị** — So sánh giá quay với giải thưởng
-5. **Vui là chính** — Đây là trò giải trí, đừng quá kỳ vọng
+| Giải              | Tiền Thưởng    |
+| ----------------- | -------------- |
+| **Giải Đặc Biệt** | **$1.000.000** |
+| **Giải Nhất**     | **$500.000**   |
+| **Giải Nhì**      | **$250.000**   |
+| **Giải Ba**       | **$80.000**    |
+| **Giải Tư**       | **$25.000**    |
+| **Giải Năm**      | **$5.000**     |
 
 ---
 
-> Quay lại: [Tài Xỉu](tai-xiu.md) | Tiếp theo: [Nhảy Au](nhay-au.md) →
+> Quay lại: [Trò Chơi Giải Trí](README.md) | Tiếp theo: [Vé Số Cào](ve-so-cao.md) →
