@@ -11,31 +11,14 @@ Hệ thống giao diện người dùng (HUD) hiển thị thông tin quan trọ
 - **Bản đồ nhỏ:** Vị trí hiện tại
 
 ### 🎯 Menu Radial
-- **Phím tắt:** `F1` hoặc `M`
+- **Phím tắt:** `F1`
 - **Tính năng:** Truy cập nhanh các menu
 - **Tùy chỉnh:** Theo nghề nghiệp và cấp bậc
 
 ### 🎒 Túi Đồ
-- **Phím tắt:** `Tab` hoặc `F2`
+- **Phím tắt:** `Tab`
 - **Quản lý:** Vật phẩm, vũ khí, trang bị
-- **Giao diện:** Kéo thả直观
-
-## Phím Tắt Cần Nhớ
-
-| Phím | Chức Năng | Ghi Chú |
-|------|-----------|---------|
-| `F1` / `M` | Menu radial | Trung tâm điều khiển |
-| `Tab` / `F2` | Túi đồ | Quản lý vật phẩm |
-| `F3` | Điện thoại | Mở điện thoại |
-| `F5` | HUD | Ẩn/hiện giao diện |
-| `F6` | Đồ ăn uống | Dùng vật phẩm nhanh |
-| `F7` | Việc làm | Xem việc làm hiện tại |
-| `F9` | Radio | Thay đổi tần số |
-| `E` | Tương tác | Nhìn vào đối tượng |
-| `Z` | Cruise control | Giữ tốc độ xe |
-| `Y` | Bảng điều khiển xe | Điều khiển xe |
-| `K` | Neo thuyền | Neo thuyền |
-| `LEFT/RIGHT/UP` | Xi nhan/Hazard | Blinker xe |
+- **Giao diện:** Kéo thả
 
 ## Lệnh Hệ Thống
 
@@ -43,8 +26,6 @@ Hệ thống giao diện người dùng (HUD) hiển thị thông tin quan trọ
 |------|-----------|
 | `/hud` | Mở cài đặt HUD |
 | `/togglehud` | Ẩn/hiện HUD |
-| `/congcu` | Mở shop công cụ |
-| `/shopthongke` | Thống kê shop |
 
 ## Mẹo Sử Dụng
 

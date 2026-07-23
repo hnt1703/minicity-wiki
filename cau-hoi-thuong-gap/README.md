@@ -17,9 +17,9 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 | Cách Kiếm Tiền | Chi Tiết | Thu Nhập |
 |-----------------|----------|----------|
 | **Nông nghiệp** | Trồng bắp cải, bí ngô | $10-50/món |
-| **Lái xe tải** | Thuê xe, chở hàng | $800/km |
-| **Lái xe buýt** | Chở khách theo tuyến | $100-292/chuyến |
-| **Đánh cá** | Câu cá tại bờ biển | $50-500/con |
+| **Lái xe tải** | Thuê xe, chở hàng |
+| **Lái xe buýt** | Chở khách theo tuyến |
+| **Câu cá** | Câu cá tại bờ biển | $50-500/con |
 | **Thu hoạch cao su** | Chế biến cao su | $100-300/kg |
 | **Làm gỗ** | Chặt gỗ theo nhóm | $10/ván |
 | **Lục rác** | Tìm đồ trong thùng rác | $1-400/đồ |
@@ -28,25 +28,24 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 | Cách Kiếm Tiền | Chi Tiết | Rủi Ro |
 |-----------------|----------|--------|
 | **Cậy đồng hồ** | Phá khóa đồng hồ | Bị cảnh sát bắt |
-| **Trộm biển báo** | Tháo biển báo đường | Cần 3 cảnh sát nearby |
+| **Trộm biển báo** | Tháo biển báo đường | Cần 3 cảnh sát |
 | **Trộm nắp cống** | Tháo nắp cống | 90 giây thực hiện |
 | **Trồng cần sa** | Trồng và thu hoạch | Bị bắt nếu phát hiện |
 
 **Lưu ý:** Nghề bất hợp pháp có thể bị cảnh sát bắt và phạt tiền hoặc vào tù.
 
 ### Bị thương phải làm sao?
-1. **Gọi y tế:** Nhấn F3 → Gọi 911
+1. **Gọi y tế:** Nhấn M → Gọi Ambulance
 2. **Đến bệnh viện:** Tìm icon bệnh viện trên bản đồ
 3. **Chờ cấp cứu:** Bác sĩ sẽ đến cứu
-4. **Chi phí:** Miễn phí hoặc theo bảo hiểm
+4. **Chi phí:** $4000
 
 ### Xe bị hư phải làm sao?
 
 #### Cách Sửa Xe
 | Cách | Chi Phí | Thời Gian |
 |------|---------|-----------|
-| **Tự sửa** | Item bosuaxe | 15-20 giây |
-| **Garage tự động** | $750 | Tự động |
+| **Tự sửa** | Item Bộ sửa xe | 15-20 giây |
 | **Gọi thợ** | Thỏa thuận | Tùy thợ |
 
 #### Dấu Hiệu Xe Hư
@@ -71,7 +70,7 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 
 #### Cách Mua
 1. Tìm khu vực nhà trên bản đồ
-2. Dùng ox.target để xem thông tin
+2. Nhấn giữ Alt (Con mắt) để xem thông tin
 3. Mua bằng tiền trong game
 4. Nhận chìa khóa
 
@@ -89,9 +88,9 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 3. Xe xuất hiện gần NPC
 
 ### Làm sao để độ xe?
-1. Đến tiệm độ xe (icon bánh răng)
+1. Đến tiệm độ xe
 2. Chọn phụ kiện muốn độ
-3. Trả tiền bằng tiền đen
+3. Trả tiền bằng tiền bẩn
 
 ## Hệ Thống Nghề Nghiệp
 
@@ -100,7 +99,7 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 |------|----------|----------|
 | **Cảnh sát** | Tuyển dụng | Lương hàng ngày |
 | **Y tế** | Tuyển dụng | Lương hàng ngày |
-| **Cơ khí** | Tuyển dụng | Sửa xe |
+| **Cứu hộ** | Tuyển dụng | Sửa xe |
 | **Lái xe tải** | Thuê xe | $800/km |
 | **Lái xe buýt** | Thuê xe | $100-292/chuyến |
 
@@ -109,7 +108,6 @@ Tổng hợp các câu hỏi thường gặp khi chơi game. Nếu không tìm t
 |------|----------|--------|
 | **Trộm cắp** | Không | Bị bắt |
 | **Trồng cần sa** | Hạt giống | Bị bắt |
-| **Buôn lậu** | Không | Bị bắt |
 
 ## Hệ Thống Xã Hội
 

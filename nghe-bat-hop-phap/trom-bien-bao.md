@@ -6,7 +6,7 @@ Trộm biển báo là nghề bất hợp pháp giúp bạn kiếm tiền từ v
 
 | Yêu Cầu | Chi Tiết |
 |---------|----------|
-| **Vật phẩm cần** | Xa beng (xa_beng) |
+| **Vật phẩm cần** | Xa beng |
 | **Số cảnh sát** | Ít nhất **3 cảnh sát** đang trực |
 | **Khu vực** | Sa mạc hoặc khu vực thành phố (bán kính 1000m) |
 
@@ -23,30 +23,33 @@ Trộm biển báo là nghề bất hợp pháp giúp bạn kiếm tiền từ v
 - Đảm bảo đang ở trong khu vực cho phép
 
 ### Bước 3: Trộm Biển
-1. Dùng **ox_target** để tương tác với biển báo
-2. Hoàn thành **mini game cạy biển** (thời gian: **120 giây** — 2 phút!)
+1. Dùng **Alt** để tương tác với biển báo
+2. Hoàn thành **mini game cạy biển** (thời gian: **120 giây**)
 3. Nếu thành công → Nhận item biển báo
 4. Nếu thất bại → Cooldown 10 giây, thử lại
 
+### Bước 4: Bán cho NPC Ẩn
+- Tìm và bán cho NPC ẩn trong thành phố để nhận tiền bẩn
+
 ## Các Loại Biển Có Thể Trộm
 
-| Biển Báo | Item Nhận Được |
-|----------|----------------|
-| Biển STOP | stopsign |
-| Biển người đi bộ | walkingmansign |
-| Biển giao lộ | dontblockintersectionsign |
-| Biển quay đầu | uturnsign |
-| Biển cấm đỗ xe | noparkingsign |
-| Biển rẽ trái | leftturnsign |
-| Biển rẽ phải | rightturnsign |
-| Biển cấm vào | notrespassingsign |
-| Biển nhường đường | yieldsign |
+| Biển Báo |
+|----------|
+| Biển STOP | 
+| Biển người đi bộ |
+| Biển giao lộ |
+| Biển quay đầu |
+| Biển cấm đỗ xe |
+| Biển rẽ trái |
+| Biển rẽ phải |
+| Biển cấm vào ||
+| Biển nhường đường |
 
 ## Phần Thưởng Hiếm
 
-| Vật Phẩm | Tỷ Lệ | Mô Tả |
-|----------|-------|-------|
-| **Bulong** | 10% | Nhận kèm khi may mắn |
+| Vật Phẩm | Mô Tả |
+|----------|-------|
+| **Bulong** | Nhận kèm khi may mắn |
 
 ## Cooldown và Quy Định
 
@@ -57,8 +60,8 @@ Trộm biển báo là nghề bất hợp pháp giúp bạn kiếm tiền từ v
 
 ## Lưu Ý Quan Trọng
 
-- **Thời gian trộm:** Khoảng **2 phút** — rất lâu! Bạn cần đảm bảo an toàn trong suốt thời gian này
-- **Lockpick (xa_beng) có thể bị hỏng** — Tỷ lệ hỏng: **50%** sau mỗi lần thành công
+- **Thời gian trộm:** Khoảng **2 phút** ! Bạn cần đảm bảo an toàn trong suốt thời gian này
+- **Xà beng có thể bị hỏng** — Tỷ lệ hỏng: sau mỗi lần thành công
 - **Cảnh sát phải đủ** — Nếu ít hơn 3 cảnh sát, bạn không thể trộm
 - **Khu vực giới hạn** — Chỉ hoạt động ở sa mạc hoặc khu vực thành phố
 
@@ -66,10 +69,8 @@ Trộm biển báo là nghề bất hợp pháp giúp bạn kiếm tiền từ v
 
 1. **Kiểm tra cảnh sát trước** — Đừng bắt đầu nếu chưa đủ 3 người
 2. **Chọn vị trí kín đáo** — 2 phút là rất lâu, cần chỗ an toàn
-3. **Mang theo nhiều Xa beng** — Vì có 50% bị hỏng sau mỗi lần
-4. **Trộm vào ban đêm** Ít cảnh sát hoạt động hơn
-5. **Có đồng đội cảnh báo** — Giúp bạn biết khi nào cảnh sát đến gần
-6. **Biết đường thoát thân** — Luôn có kế hoạch bỏ chạy
+3. **Có đồng đội cảnh báo** — Giúp bạn biết khi nào cảnh sát đến gần
+4. **Biết đường thoát thân** — Luôn có kế hoạch bỏ chạy
 
 ---
 

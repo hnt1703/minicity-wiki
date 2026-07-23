@@ -5,21 +5,9 @@ Hệ thống mua bán xe đa dạng với nhiều loại xe và hình thức tha
 ## Mua Xe Mới
 
 ### Showroom Xe
-- **Vị trí:** Khu vực Legion Square (386.2, -330.2, 48.31)
-- **Số lượng trưng bày:** 23 vị trí (20 ô tô/xe máy, 3 thuyền)
+- **Vị trí:** Khu vực Legion Square
 - **Thời gian lái thử:** 60 giây
-- **Nhân viên:** Hoa hồng 2% giá bán
-
-### Các Nhóm Xe
-
-| Nhóm | Giá Bán | Giới Hạn | Đặc Điểm |
-|------|---------|----------|----------|
-| **Xe Event** | $0 | 3 xe/người | Xe sự kiện miễn phí |
-| **Xe Newbie** | $20k - $300k | 99-999 | Phù hợp người mới |
-| **Xe Bình Dân** | $100k - $3tr | 10-999 | Đa dạng mẫu mã |
-| **Xe Đợt 9** | $5tr - $10tr | 2-3 | Xe giới hạn, tăng giá 5% |
-| **Xe Đợt 10-13** | $2tr - $11tr | 2-1000 | Xe mới nhất |
-| **Xe Cảnh Sát** | $50k | 999 | Theo cấp bậc nghề |
+- **Cập nhật xe mới:** Xe sẽ tự động thay dổi mỗi lần thành phố reset
 
 ### Cách Mua Xe
 1. **Đến showroom:** Tìm icon xe trên bản đồ
@@ -45,13 +33,12 @@ Hệ thống mua bán xe đa dạng với nhiều loại xe và hình thức tha
 1. **Lái xe đến NPC ký gửi**
 2. **Đăng ký bán xe** — Đặt giá và thời gian bán
 3. **Trưng bày xe** — Xe sẽ hiển thị tại vị trí ký gửi
-4. **Chờ người mua** — Theo dõi trên Discord hoặc đến xem trực tiếp
+4. **Chờ người mua** — Đến xem trực tiếp
 
 ### Hợp Đồng Chuyển Nhượng
 - **Thuế:** 3% giá trị xe
 - **Yêu cầu:** Người mua phải đứng trong 5m NPC
 - **Thời hạn hợp đồng:** 120 giây
-- **Ghi nhận:** Giao dịch được ghi trên Discord
 
 ### Giá Bán
 - **Giá tối thiểu:** 50% giá mua tại cardealer
@@ -64,7 +51,7 @@ Hệ thống mua bán xe đa dạng với nhiều loại xe và hình thức tha
 2. **Kiểm tra xe cũ:** Đến xem trực tiếp trước khi mua
 3. **So sánh giá:** Xem giá trên thị trường trước khi đặt
 4. **Bán xe nhanh:** Đặt giá hợp lý để bán nhanh
-5. **Theo dõi Discord:** Nhận thông báo khi có xe mới
+5. **Cập nhật xe mới:** Xe sẽ tự động thay dổi mỗi lần reset
 
 ---
 

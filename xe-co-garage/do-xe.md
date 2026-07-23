@@ -4,65 +4,65 @@ Tùy chỉnh xe giúp tăng hiệu suất và ngoại hình. Hệ thống độ 
 
 ## Vị Trí Độ Xe
 
-- **Địa chỉ:** Bennys Workshop - khu Los Santos Customs (140.31, -3030.23, 7.04)
+- **Địa chỉ:** Bennys Workshop - khu Los Santos Customs 
 - **Khu vực làm việc:** Bán kính 50m
-- **Thanh toán:** Bằng tiền đen (`black_money`)
+- **Thanh toán:** Bằng tiền Bẩn (Nhận được khi bán đồ bẩn)
 - **Không yêu cầu nghề:** Bất kỳ ai cũng có thể độ xe
 
 ## Các Phần Có Thể Độ
 
 ### ⚡ Hiệu Suất
 
-| Phụ C kiện | Cấp 2 | Cấp 3 | Cấp 4 | Cấp 5 |
-|-------------|-------|-------|-------|-------|
-| **Phanh** | 50k + 1% giá xe | 100k + 2% | 175k + 3% | - |
-| **Hộp số** | 50k + 1% giá xe | 100k + 2% | 175k + 3% | - |
-| **Giảm xóc** | 50k + 1% | 75k + 2% | 130k + 3% | 200k + 5% |
-| **Động cơ** | 200k + 5% | 350k + 7% | 600k + 10% | - |
-| **Turbo** | 230k + 10% | - | - | - |
+| Phụ kiện |
+|-------------|
+| **Phanh** |
+| **Hộp số** | 
+| **Giảm xóc** |
+| **Động cơ** |
+| **Turbo** |
 
 ### 🎨 Ngoại Thất
 
-| Phụ Kiện | Giá Cơ Bản | Tăng Mỗi Cấp |
-|-----------|-------------|--------------|
-| Cánh gió | $1,500 | +$250 |
-| Nắp capô | $2,200 | +$350 |
-| Cản trước/sau | $1,250 | +$250 |
-| Mâm bánh | $30,000 | - |
-| Đèn neon | $250 | - |
-| Dán kính | $100 | +$50 |
+| Phụ Kiện |
+|-----------|
+| Cánh gió |
+| Nắp capô |
+| Cản trước/sau |
+| Mâm bánh |
+| Đèn neon |
+| Dán kính |
 
 ### 🌈 Màu Sơn
 
-| Loại | Giá |
-|------|-----|
-| Màu thường | $40,000 |
-| Màu tắc kè (Chameleon) | $120,000 |
-| Neon gầm | $40,000 |
-| Mâm bánh | $40,000 |
+| Loại |
+|------|
+| Màu thường |
+| Màu tắc kè (Chameleon) |
+| Neon gầm |
+| Mâm bánh |
 
 ### 🔧 Đặc Biệt
 
-| Phụ Kiện | Giá | Hiệu Quả |
-|-----------|-----|-----------|
-| Tăng bám đường | $10,000 | Xe bám đường tốt hơn |
-| Tuner Chip | $25,000 | Tăng hiệu suất tổng thể |
-| Nitro | $15,000 | Tăng tốc nhanh (3s, cooldown 30s) |
-| Pô nổ (Popcorn) | $15,000 | Hiệu ứng âm thanh |
+| Phụ Kiện || Hiệu Quả |
+|-----------|-----------|
+| Tăng bám đường |  Xe bám đường tốt hơn |
+| Tuner Chip | Tăng hiệu suất tổng thể |
+| Nitro | Tăng tốc nhanh |
+| Pô nổ (Popcorn) | Hiệu ứng âm thanh |
 
 ## Cách Thực Hiện
 
 ### Bước 1: Đến Tiệm Độ Xe
-- Tìm icon **bánh răng** trên bản đồ
+- Tìm icon **Xe** màu cam trên bản đồ
 - Lái xe vào khu vực độ xe
 
 ### Bước 2: Chọn Phụ Kiện
-- Dùng **ox_target** để tương tác với nhân viên
+- Dùng **E** để mở Menu độ xe
 - Chọn loại phụ kiện muốn độ
 - Xem giá và hiệu quả
 
 ### Bước 3: Thanh Toán
-- Trả tiền bằng **tiền đen**
+- Trả tiền bằng **tiền Bẩn**
 - Chờ quá trình độ hoàn thành
 - Xe sẽ được nâng cấp ngay lập tức
 
@@ -71,7 +71,6 @@ Tùy chỉnh xe giúp tăng hiệu suất và ngoại hình. Hệ thống độ 
 - **Giá động:** Một số phụ kiện tính theo % giá xe
 - **Yêu cầu:** Xe phải có trong hệ thống cardealer
 - **Không hoàn tiền:** Sau khi độ không thể hoàn lại
-- **Bảo trì:** Phụ kiện độ cần bảo trì định kỳ
 
 ## Mẹo Độ Xe
 

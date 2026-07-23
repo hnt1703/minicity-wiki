@@ -1,11 +1,11 @@
 # Bắt Đầu
 
-Chào mừng bạn đến với MINICITY SS2! Đây là thành phố nơi bạn có thể sống một cuộc sống hoàn toàn mới - từ tạo nhân vật, kiếm tiền, đến tham gia各种 hoạt động. Hướng dẫn này sẽ giúp bạn làm quen nhanh nhất có thể.
+Chào mừng bạn đến với MINICITY SS2! Đây là thành phố nơi bạn có thể sống một cuộc sống hoàn toàn mới - từ tạo nhân vật, kiếm tiền, đến tham gia nhiều hoạt động. Hướng dẫn này sẽ giúp bạn làm quen nhanh nhất có thể.
 
-## Bạn Sẽ Được Gì Khi Mới Vào Server?
+## Trải Nghiệm Đầu Tiên Khi Vào Thành Phố?
 
 1. **Màn hình loading** — Trong khi tải game, bạn sẽ thấy hình ảnh slideshow và thông tin cập nhật server
-2. **Tạo nhân vật** — Bạn sẽ được chuyển đến khu vực tạo nhân vật trước tòa nhà
+2. **Tạo nhân vật** — Bạn sẽ được chuyển đến khu vực tạo nhân vật trước công viên trung tâm
 3. **Tặng balo newbie** — Nhân vật mới sẽ nhận được một balo miễn phí
 4. **Spawn tại vị trí cuối** — Nếu đã chơi trước đó, bạn sẽ xuất hiện ở chỗ đăng xuất lần trước
 
@@ -13,15 +13,12 @@ Chào mừng bạn đến với MINICITY SS2! Đây là thành phố nơi bạn 
 
 | Phím | Chức Năng | Ghi Chú |
 |------|-----------|---------|
-| `F1` hoặc `M` | Menu radial | Trung tâm điều khiển |
+| `F1` | Menu radial | Trung tâm điều khiển |
 | `Tab` | Túi đồ | Xem và quản lý vật phẩm |
-| `E` | Tương tác | Nhìn vào đối tượng để dùng |
-| `F3` | Điện thoại | Mở điện thoại cá nhân |
+| `Alt` | Tương tác | Nhìn vào đối tượng để dùng |
+| `M` | Điện thoại | Mở điện thoại cá nhân |
 | `Esc` | Menu chính | Thoát game, cài đặt |
-| `F5` | HUD | Ẩn/hiện giao diện |
-| `F6` | Đồ ăn uống | Dùng vật phẩm nhanh |
-| `F7` | Khu vực việc làm | Xem việc làm hiện tại |
-| `F9` | Radio | Thay đổi tần số radio |
+
 
 ## Bước Đầu Tiên
 
@@ -37,12 +34,12 @@ Sau khi tạo xong, nhân vật sẽ xuất hiện trước tòa nhà. Hãy đi 
 
 ### 3. Bắt Đầu Kiếm Tiền
 Có nhiều cách để kiếm tiền:
-- **Làm việc hợp pháp** — Lái xe buýt, thu hoạch cao su, đánh cá...
-- **Làm việc bất hợp pháp** — Trồng cần sa, trộm cắp... (rủi ro cao!)
+- **Làm các việc hợp pháp** — Lái xe buýt, thu hoạch cao su, đánh cá...
+- **Làm các việc bất hợp pháp** — Trồng cần sa, trộm cắp... (rủi ro cao!)
 - **Kinh doanh** — Mua bán xe, bất động sản
 
 ### 4. Sử Dụng Điện Thoại
-Điện thoại là công cụ quan trọng. Nhấn `F3` để mở và:
+Điện thoại là công cụ quan trọng. Nhấn `M` để mở và:
 - Gọi cứu hộ khi gặp sự cố
 - Nhắn tin với người chơi khác
 - Xem bản đồ, tin tức
@@ -58,7 +55,6 @@ Có nhiều cách để kiếm tiền:
 ## Hỗ Trợ
 
 Nếu gặp vấn đề:
-- Nhấn `F1` → Hỗ trợ → Gọi hỗ trợ viên
 - Tham gia Discord server để nhận thông báo
 - Đọc phần [Câu Hỏi Thường Gặp](../cau-hoi-thuong-gap/README.md)
 

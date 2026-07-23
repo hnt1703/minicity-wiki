@@ -8,7 +8,7 @@ Xe cộ là phương tiện di chuyển chính trong thành phố. Hệ thống 
 - **Xe ô tô:** Từ xe bình dân (20k) đến xe sang (hàng chục triệu)
 - **Xe máy:** Các loại xe phân khối lớn
 - **Thuyền:** Xuồng, ca nô, du thuyền
-- **Machine bay:** Trực thăng, máy bay nhỏ
+- **Máy bay:** Trực thăng, máy bay nhỏ
 - **Xe công vụ:** Xe cảnh sát, cứu thương (theo cấp bậc nghề)
 
 ### 🏢 Hệ Thống Garage
@@ -34,14 +34,12 @@ Xe cộ là phương tiện di chuyển chính trong thành phố. Hệ thống 
 
 - **Phí lưu trữ:** Xe cất trong garage không mất phí
 - **Phí chuộc xe:** $2,000 - $3,000 khi xe bị thất lạc hoặc giam
-- **Phí chuyển nhượng:** $2,500 khi chuyển xe giữa người chơi
-- **Bảo hiểm:** Xe không có bảo hiểm, hư hỏng phải tự sửa
 - **Phạt vượt tốc:** Đi quá tốc độ có thể bị cảnh sát phạt
 
 ## Mẹo Quản Lý Xe
 
 1. **Luôn cất xe vào garage** — Tránh bị đánh cắp hoặc hư hỏng
-2. **Sửa xe kịp thời** — Xe hư会影响 hiệu suất và có thể bị cảnh sát chặn
+2. **Sửa xe kịp thời** — Xe hư hiệu suất và có thể bị cảnh sát chặn
 3. **Đổ đầy xăng** — Xe hết xăng sẽ dừng giữa đường
 4. **Bảo vệ xe** — Sử dụng hệ thống khóa xe, không để chìa khóa trong xe
 5. **Mua xe phù hợp** — Đừng mua xe quá đắt khi mới chơi

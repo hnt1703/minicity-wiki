@@ -6,38 +6,41 @@ Gọi xe từ garage đến vị trí hiện tại của bạn. Hệ thống gar
 
 ### Các Garage Ô Tô
 
-| Tên Garage | Vị Trí | Khu Vực |
-|------------|---------|----------|
-| 614 Garage | 277.31, -346.37, 44.92 | Trung tâm |
-| 284 Garage | 1712.25, 3605.06, 35.13 | Blaine County |
-| 433 Garage | -3137.58, 1094.51, 20.63 | Paleto Bay |
-| 114 Garage | 1691.0, 4770.32, 41.92 | Grapeseed |
-| 244 Garage | 630.09, 2724.14, 41.83 | Sandy Shores |
-| 750 Garage | 221.4, -810.69, 30.62 | Legion Square |
-| 752 Garage | 103.22, -1074.47, 29.19 | Strawberry |
-| 712 Garage | -694.46, -1450.35, 5.0 | Del Perro |
-| 593 Garage | 454.57, 237.82, 103.21 | Vinewood |
-| 581 Garage | 1142.47, -287.06, 68.93 | Mirror Park |
-| 758 Garage | 411.76, -659.56, 28.55 | Vespucci |
-| 941 Garage | 1246.23, -3131.86, 5.63 | Elysian Island |
-| 609 Garage | 331.88, -206.25, 54.09 | Burton |
-| 686 Garage | -1586.23, -897.75, 9.67 | Pacific Bluffs |
-| 086 Garage | 3803.74, 4448.87, 4.11 | Mount Chiliad |
+| Tên Garage  | Khu Vực |
+|------------|----------|
+| 614 Garage  | Trung tâm |
+| 284 Garage  | Blaine County |
+| 433 Garage  | Paleto Bay |
+| 114 Garage  | Grapeseed |
+| 244 Garage  | Sandy Shores |
+| 750 Garage  | Legion Square |
+| 752 Garage  | Strawberry |
+| 712 Garage  | Del Perro |
+| 593 Garage  | Vinewood |
+| 581 Garage  | Mirror Park |
+| 758 Garage  | Vespucci |
+| 941 Garage  | Elysian Island |
+| 609 Garage  | Burton |
+| 686 Garage  | Pacific Bluffs |
+| 086 Garage  | Mount Chiliad |
 
+### Chuộc xe
+- **Chuộc xe 752** Đến đúng vị trí Nhấn E và Chọn xe để chuộc
+- **Chuộc xe 287** Đến đúng vị trí Nhấn E và Chọn xe để chuộc
 ### Garage Máy Bay
-- **May Bay 712 (LSIA):** -709.0, -1461.53, 5.0
-- **May Bay 686 (Sandy):** -1679.1, -844.7, 9.07
-- **May Bay 260:** 1768.8, 3228.1, 42.59
-- **May Bay 110:** 2098.7, 4777.8, 41.12
+- **May Bay 712 (LSIA):** 
+- **May Bay 686 (Sandy):** 
+- **May Bay 260:** 
+- **May Bay 110:** 
 
 ### Garage Thuyền
-- **Thuyen Garage:** -783.13, -1490.53, 1.49
+- **Thuyen Garage:** 
 
 ## Cách Gọi Xe
 
 ### Bước 1: Đến Garage
-- Tìm **NPC garage** (model `s_m_m_autoshop_02`) trên bản đồ
-- Đứng trong bán kính 5m để mở menu
+- Tìm **NPC garage** trên bản đồ
+- Dùng **Alt** vào NPC để mở menu
 
 ### Bước 2: Chọn Xe
 - Xem danh sách xe trong garage khu vực đó
@@ -53,7 +56,6 @@ Gọi xe từ garage đến vị trí hiện tại của bạn. Hệ thống gar
 | Dịch Vụ | Chi Phí |
 |---------|---------|
 | Gọi xe từ garage | Miễn phí |
-| Thu hồi xe bỏ ngoài | $2,500 |
 | Chuyển nhượng xe | $2,500 |
 | Chuộc xe thất lạc | $2,000 |
 | Chuộc xe bị giam | $3,000 |

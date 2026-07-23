@@ -17,25 +17,21 @@
 ## Danh Sách Nghề
 
 ### 🔧 Cậy Đồng Hồ
-- **Thu nhập:** $50-200 mỗi lần
 - **Rủi ro:** Bị cảnh sát bắt
 - **Cooldown:** 120 giây thành công, 10 giây thất bại
 - **Chi tiết:** [Xem chi tiết](cay-dong-ho.md)
 
 ### 🚧 Trộm Biển Báo
-- **Thu nhập:** $100-500 mỗi biển
 - **Rủi ro:** Cần 3 cảnh sát nearby
 - **Thời gian:** 120 giây thực hiện
 - **Chi tiết:** [Xem chi tiết](trom-bien-bao.md)
 
 ### 🌱 Trồng Cần Sa
-- **Thu nhập:** $200-800 mỗi cây
 - **Rủi ro:** Bị cảnh sát bắt khi trồng
 - **Thời gian:** 24 giờ để thu hoạch
 - **Chi tiết:** [Xem chi tiết](trong-can-sa.md)
 
 ### 🕳️ Trộm Nắp Cống
-- **Thu nhập:** $50-150 mỗi nắp
 - **Rủi ro:** Bị cảnh sát bắt
 - **Thời gian:** 90 giây thực hiện
 - **Chi tiết:** [Xem chi tiết](trom-nap-cong.md)

@@ -55,7 +55,6 @@ Bạn mới chơi lần đầu? Xem hướng dẫn:
 
 - [Loto](tro-choi-giai-tri/loto.md) — Xổ số may mắn
 - [Tiến Lên](tro-choi-giai-tri/tien-len.md) — Game bài
-- [Tài Xỉu](tro-choi-giai-tri/tai-xiu.md) — Đặt cược
 
 ---
 

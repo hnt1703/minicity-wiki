@@ -1,13 +1,12 @@
 # Nghề Hợp Pháp
 
-Các nghề hợp pháp giúp bạn kiếm tiền một cách an toàn, không lo cảnh sát bắt. Đây là cách tốt nhất để bắt đầu và phát triển nhân vật.
+Các nghề hợp pháp giúp bạn kiếm tiền một cách an toàn, không lo PD bắt. Đây là cách tốt nhất để bắt đầu và phát triển nhân vật.
 
 ## Tổng Quan Nghề Hợp Pháp
 
 ### Ưu Điểm
 - **An toàn:** Không bị cảnh sát bắt
 - **Ổn định:** Thu nhập đều đặn
-- **Phát triển:** Level cao, lương nhiều
 - **Xã hội:** Kết bạn, tham gia cộng đồng
 
 ### Nhược Điểm
@@ -18,34 +17,34 @@ Các nghề hợp pháp giúp bạn kiếm tiền một cách an toàn, không l
 ## Danh Sách Nghề
 
 ### 🌾 Nông Nghiệp
-| Nghề | Thu Nhập | Yêu Cầu | Chi Tiết |
+| Nghề | Yêu Cầu | Chi Tiết |
 |------|----------|---------|----------|
-| **Nông Trại** | $10-50/món | Hạt giống | [Chi tiết](nong-trai.md) |
-| **Thu Hoạch Cao Su** | $100-300/kg | Dao cạo | [Chi tiết](thu-hoach-cao-su.md) |
+| **Nông Trại** | Hạt giống | [Chi tiết](nong-trai.md) |
+| **Thu Hoạch Cao Su**| Dao cạo | [Chi tiết](thu-hoach-cao-su.md) |
 
 ### 🚚 Vận Tải
-| Nghề | Thu Nhập | Yêu Cầu | Chi Tiết |
+| Nghề | Yêu Cầu | Chi Tiết |
 |------|----------|---------|----------|
-| **Lái Xe Tải** | $800/km | Thuê xe | [Chi tiết](lai-xe-tai.md) |
-| **Lái Xe Buýt** | $100-292/chuyến | Thuê xe | [Chi tiết](lai-xe-bus.md) |
+| **Lái Xe Tải** | Thuê xe | [Chi tiết](lai-xe-tai.md) |
+| **Lái Xe Buýt** | Thuê xe | [Chi tiết](lai-xe-bus.md) |
 
 ### ⛏️ Khai Thác
-| Nghề | Thu Nhập | Yêu Cầu | Chi Tiết |
+| Nghề | Yêu Cầu | Chi Tiết |
 |------|----------|---------|----------|
-| **Khai Thác Đá** | $50-200/đá | Công cụ | [Chi tiết](khai-thac-da.md) |
-| **Nghề Gỗ** | $10/ván | Rìu | [Chi tiết](nghe-go.md) |
+| **Khai Thác Đá** | Công cụ | [Chi tiết](khai-thac-da.md) |
+| **Nghề Gỗ**| Rìu | [Chi tiết](nghe-go.md) |
 
 ### 🌊 Biển
-| Nghề | Thu Nhập | Yêu Cầu | Chi Tiết |
+| Nghề | Yêu Cầu | Chi Tiết |
 |------|----------|---------|----------|
-| **Lặn Biển** | $100-1000/viên đá | Thiết bị lặn | [Chi tiết](lan-bien.md) |
-| **Câu Cá** | $50-500/con | Cần câu | [Chi tiết](cau-ca.md) |
+| **Lặn Biển** | Thiết bị lặn | [Chi tiết](lan-bien.md) |
+| **Câu Cá** | Cần câu | [Chi tiết](cau-ca.md) |
 
 ### 🔧 Khác
-| Nghề | Thu Nhập | Yêu Cầu | Chi Tiết |
+| Nghề | Yêu Cầu | Chi Tiết |
 |------|----------|---------|----------|
-| **Lục Rác** | $1-400/đồ | Không | [Chi tiết](luc-rac.md) |
-| **Nhà Máy Nước** | $50-100/lít | Công cụ | [Chi tiết](nha-may-nuoc.md) |
+| **Lục Rác** | Không | [Chi tiết](luc-rac.md) |
+| **Nhà Máy Nước** | Công cụ | [Chi tiết](nha-may-nuoc.md) |
 
 ## Cách Bắt Đầu
 
@@ -73,7 +72,7 @@ Các nghề hợp pháp giúp bạn kiếm tiền một cách an toàn, không l
 
 1. **Bắt đầu từ nghề đơn giản** — Nông trại, lục rác
 2. **Làm việc đều đặn** — Mỗi ngày login làm việc
-3. **Tích lũy kinh nghiệm** — Level cao, lương nhiều
+3. **Tích lũy kinh nghiệm** — lương nhiều
 4. **Mua xe** — Di chuyển nhanh hơn, làm việc hiệu quả hơn
 5. **Đầu tư công cụ** — Mua đồ tốt để làm việc nhanh hơn
 6. **Kết bạn** — Làm việc nhóm hiệu quả hơn

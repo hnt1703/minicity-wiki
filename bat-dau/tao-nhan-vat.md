@@ -1,12 +1,12 @@
 # Tạo Nhân Vật
 
-Khi mới vào server, bạn sẽ được chuyển đến khu vực tạo nhân vật trước tòa nhà. Đây là bước quan trọng nhất để bắt đầu cuộc sống mới trong thành phố.
+Khi mới vào server, bạn sẽ được chuyển đến khu vực tạo nhân vật trước trước công viên trung tâm. Đây là bước quan trọng nhất để bắt đầu cuộc sống mới trong thành phố.
 
 ## Quy Trình Tạo Nhân Vật
 
 ### Bước 1: Giới Tính
 Chọn **Nam** hoặc **Nữ**. Giới tính sẽ ảnh hưởng đến:
-- Model nhân vật (kích thước, giọng nói)
+- Model nhân vật (kích thước)
 - Trang phục mặc định
 - Kiểu tóc có sẵn
 
@@ -22,34 +22,24 @@ Bạn có thể tùy chỉnh chi tiết:
 | **Tóc** | Kiểu tóc, màu tóc (hàng trăm lựa chọn) |
 | **Râu** | Kiểu râu, ria mép (chỉ nam) |
 | **Da** | Màu da, nếp nhăn, mụn |
-| **Phụ kiện** | Kính mắt, khuyên tai |
 
 ### Bước 3: Đặt Tên
 - Nhập **Họ** và **Tên** nhân vật
-- Tên phải hợp lệ, không chứa ký tự đặc biệt
+- Tên phải hợp lệ, không chứa ký tự đặc biệt, dấu cách
 - Có thể nhập quốc tịch tự do
 
 ### Bước 4: Hoàn Tất
 Nhấn nút **"Tạo Nhân Vật"** để hoàn thành. Nhân vật sẽ xuất hiện trong game với trang phục mặc định.
 
-## Khoảng Cách Tạo Nhân Vật
-
-- **Vị trí:** Trước tòa nhà trong thành phố
-- **Camera:** Tự động zoom vào nhân vật
-- **An toàn:** Trong quá trình tạo, bạn bất tử và không bị ảnh hưởng bởi yếu tố môi trường
-
 ## Trang Phục Mặc Định
 
 ### Nam
-- **Áo:** Áo thun trắng
-- **Quần:** Quần jean xanh
-- **Giày:** Giày thể thao
+- **Quần:** Quần đùi
 - **Tóc:** Kiểu tóc cơ bản
 
 ### Nữ
-- **Áo:** Áo thun đen
+- **Áo:** Áo thun
 - **Quần:** Quần jeans
-- **Giày:** Giày sneakers
 - **Tóc:** Kiểu tóc nữ cơ bản
 
 ## Quản Lý Nhân Vật
@@ -62,13 +52,12 @@ Nhấn nút **"Tạo Nhân Vật"** để hoàn thành. Nhân vật sẽ xuất 
 ### Đăng Nhập Lần Sau
 - Nhân vật sẽ xuất hiện ở **vị trí cuối cùng** đăng xuất
 - Trang phục và vật phẩm được lưu tự động
-- Có hiệu ứng drone điện ảnh khi spawn (6 giây)
 
 ## Lưu Ý Quan Trọng
 
 - **Không thể xóa:** Nhân vật đã tạo không thể xóa, hãy cân nhắc kỹ
-- **Thay đổi ngoại hình:** Sau khi tạo, có thể thay đổi tại tiệm cắt tóc
-- **Tên nhân vật:** Chọn tên dễ nhớ, phù hợp với nhân cách bạn muốn扮演
+- **Thay đổi Tóc:** Sau khi tạo, có thể thay đổi tại tiệm cắt tóc
+- **Tên nhân vật:** Chọn tên dễ nhớ, phù hợp với nhân cách bạn muốn
 - **Trang phục:** Nhận balo miễn phí khi mới tạo nhân vật
 
 ## Mẹo Tạo Nhân Vật
@@ -83,7 +72,7 @@ Nhấn nút **"Tạo Nhân Vật"** để hoàn thành. Nhân vật sẽ xuất 
 
 1. **Đi bộ xung quanh:** Làm quen với môi trường
 2. **Tìm cửa hàng quần áo:** Thay trang phục nếu muốn
-3. **Mở điện thoại:** Nhấn F3 để xem tính năng
+3. **Mở điện thoại:** Nếu bắt đầu một mình hãy vào dịch vụ gọi cho PD để được hỗ trợ
 4. **Tìm việc làm:** Bắt đầu kiếm tiền
 
 ---

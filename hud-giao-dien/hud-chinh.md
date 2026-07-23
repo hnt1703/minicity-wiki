@@ -1,6 +1,6 @@
 # HUD Chính
 
-HUD chính hiển thị tất cả thông tin quan trọng về nhân vật và môi trường. Hệ thống được thiết kế直观, dễ theo dõi.
+HUD chính hiển thị tất cả thông tin quan trọng về nhân vật và môi trường. Hệ thống được thiết kế, dễ theo dõi.
 
 ## Các Thanh Trạng Thái
 
@@ -59,7 +59,7 @@ HUD chính hiển thị tất cả thông tin quan trọng về nhân vật và 
 - **Hiển thị vị trí:** Bạn đang ở đâu
 - **Đánh dấu địa điểm:** Cửa hàng, ngân hàng, việc làm
 - **Đường đi:** Khi có nhiệm vụ
-- **Đồng hồ:** La bàn方向
+- **Đồng hồ:** La bàn định hướng 
 
 ### Khi Đi Bộ
 - **Hiển thị:** Minimap + la bàn
@@ -85,7 +85,7 @@ HUD chính hiển thị tất cả thông tin quan trọng về nhân vật và 
 ## Lưu Ý Quan Trọng
 
 - **Stress khi chạy nhanh:** Tự động tăng stress khi chạy > 160 km/h (mỗi 10 giây +2 stress)
-- **Dây an toàn:** Tắt (đã xử lý sẵn)
+- **Dây an toàn:** Tắt 
 - **Ngưỡng văng:** 32 km/h không thắt, 160 km/h có thắt
 - **Ẩn/hiện:** Sử dụng `/togglehud`
 

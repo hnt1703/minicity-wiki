@@ -1,8 +1,8 @@
 # Điện Thoại
 
-Điện thoại là vật dụng không thể thiếu trong thành phố. Bạn cần có điện thoại trong túi đồ để sử dụng. Nhấn **F3** để mở hoặc chọn từ menu radial.
+Điện thoại là vật dụng không thể thiếu trong thành phố. Bạn cần có điện thoại trong túi đồ để sử dụng. Nhấn **M** để mở.
 
-## Giao Diên Điện Thoại
+## Giao Diện Điện Thoại
 
 Điện thoại có thiết kế hiện đại với Dynamic Island (thanh thông báo linh hoạt). Khi lần đầu sử dụng, bạn sẽ thấy màn hình cài đặt để thiết lập tài khoản.
 
@@ -10,7 +10,6 @@
 Mỗi người chơi sẽ nhận được số điện thoại riêng với định dạng `090 XXX XXX`. Số này được dùng để:
 - Nhận cuộc gọi từ người khác
 - Nhận tin nhắn
-- Đăng ký dịch vụ
 
 ## Ứng Dụng Cơ Bản
 
@@ -38,28 +37,15 @@ Giống Twitter, nơi đăng bài viết, hình ảnh, bình luận. Bạn có t
 - Theo dõi người chơi khác
 - Bình luận, thích bài viết
 
-### 📸 InstaPic
-Chia sẻ hình ảnh với bộ lọc đẹp mắt.
-
-### 🎵 Trendy
-Xem video ngắn, giống TikTok.
-
-### 💬 DarkChat
-Nhắn tin nhóm bảo mật.
-
 ## Ứng Dụng Dịch Vụ
 
 ### 📞 Dịch Vụ Công Cộng
 Gọi hỗ trợ khi cần:
-- **Cảnh sát (911):** Khi gặp tội phạm hoặc cần giúp đỡ
-- **Y tế (911):** Khi bị thương hoặc cần cấp cứu
-- **Cứu hộ xe:** Khi xe gặp sự cố
-- **Taxi:** Đặt xe di chuyển
-
-### 🏠 Ứng Dụng Nhà Ở
-- Quản lý nhà cửa
-- Mở khóa cửa từ xa
-- Xem danh sách bất động sản
+- **Police :** Khi gặp tội phạm hoặc cần giúp đỡ
+- **Ambulance :** Khi bị thương hoặc cần cấp cứu
+- **Cứu hộ xe :** Khi xe gặp sự cố
+- **Cardealer :** Khi muốn mua xe
+- **Tiệm nail :** Liên hệ để hẹn làm nail
 
 ### 🚗 Ứng Dụng Garage
 - Quản lý xe cộ
@@ -84,20 +70,13 @@ Gọi hỗ trợ khi cần:
 - Chọn nhạc chuông (7 nhạc chuông)
 - Thay đổi cài đặt hiển thị
 
-## Lưu Ý Quan Trọng
-
-- **Cước phí:** Cuộc gọi và tin nhắn có thể mất phí
-- **Mạng:** Ở một số khu vực hẻo lánh có thể mất sóng
-- **Bảo mật:** Không chia sẻ số điện thoại cho người lạ
-- **Nạp tiền:** Cần có tiền trong tài khoản để sử dụng dịch vụ trả phí
-
 ## Mẹo Sử Dụng
 
 1. **Lưu số quan trọng:** Lưu số cảnh sát, y tế, bạn bè vào danh bạ
 2. **Sử dụng camera:** Chụp ảnh đẹp để chia sẻ trên mạng xã hội
 3. **Kiểm tra bản đồ:** Trước khi di chuyển xa, xem bản đồ trước
 4. **Đặt xe cứu hộ:** Khi xe bị kẹt, gọi cứu hộ thay vì đi bộ
-
+5. **Cập nhật thông tin:** Kiểm tra tin nhắn thường xuyên để không bỏ lỡ các sự kiện trong thành phố.
 ---
 
 > Quay lại: [Quần Áo & Ngoại Hình](quan-ao-ngoai-hinh.md) | Tiếp theo: [Nghề Hợp Pháp](../nghe-hop-phap/README.md) →
