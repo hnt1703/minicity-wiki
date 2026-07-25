@@ -44,8 +44,6 @@
   - [Loto / Xổ Số](tro-choi-giai-tri/loto.md)
   - [Tiến Lên](tro-choi-giai-tri/tien-len.md)
   - [Vòng Quay May Mắn](tro-choi-giai-tri/vong-quay.md)
-  - [Nhảy Au](tro-choi-giai-tri/nhay-au.md)
-  - [Crack Két Sắt](tro-choi-giai-tri/crack-ket-sat.md)
 - [Tính Năng Trong Game](tinh-nang-trong-game/README.md)
   - [Nhà Ở](tinh-nang-trong-game/nha-o.md)
   - [Điểm Danh Hàng Ngày](tinh-nang-trong-game/diem-danh.md)
