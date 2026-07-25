@@ -42,7 +42,6 @@
   - [Bán Xe](nghe-chuyen-mon/ban-xe-nghe.md)
 - [Trò Chơi Giải Trí](tro-choi-giai-tri/README.md)
   - [Loto / Xổ Số](tro-choi-giai-tri/loto.md)
-  - [Tiến Lên](tro-choi-giai-tri/tien-len.md)
   - [Vòng Quay May Mắn](tro-choi-giai-tri/vong-quay.md)
 - [Tính Năng Trong Game](tinh-nang-trong-game/README.md)
   - [Nhà Ở](tinh-nang-trong-game/nha-o.md)
